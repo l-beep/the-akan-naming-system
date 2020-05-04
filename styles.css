@@ -2,7 +2,7 @@
     text-align: center;
 }
 .card-body {
-    text-align: center;
+    padding-inline: 30px;
 }
 .footer-top{
     color: aqua;
